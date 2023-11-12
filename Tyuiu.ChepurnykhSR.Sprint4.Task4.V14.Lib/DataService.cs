@@ -30,4 +30,3 @@ namespace Tyuiu.ChepurnykhSR.Sprint4.Task4.V14.Lib
         }
     }
 }
-
